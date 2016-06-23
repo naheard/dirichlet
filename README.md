@@ -1,5 +1,5 @@
 # dirichlet
 Example usage:
 
-echo dirichlet ./dp_pvalues.py
+echo dirichlet | ./dp_pvalues.py
 
